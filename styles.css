@@ -1,0 +1,30 @@
+h1{
+    Font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+h2{
+    Font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+a:link{
+color: black;
+text-decoration: underline;
+}
+
+body{
+    border: 1px solid black;
+    background: white;
+    width: 300px;
+    margin:270px auto;
+    border-radius: 30px;
+}
+
+html{
+    background: rgb(92, 91, 91);
+}
+
+
